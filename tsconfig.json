@@ -26,6 +26,7 @@
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
+    "strictPropertyInitialization": false,//added by me
     "strictInputAccessModifiers": true,
     "strictTemplates": true
   }
